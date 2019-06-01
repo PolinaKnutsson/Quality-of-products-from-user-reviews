@@ -5,7 +5,7 @@ Several important predictions produced by theoretical literature on product diff
 
 Data collected from the web make it possible to assess this assumption. Price comparison services contain information on prices and have a good proxy for quality - user rating. https://classic.prisjakt.nu/ turns out to be a good source of these data, as users rate the products and not the sellers. The obvious caveat with using rating data as a proxy for quality is that different users put different weights on various characteristics of the products. Next, there is certainly self-selection in the process of rating a product. I ignore these issues at this stage and focus on the technical side of data collection - scraping - as a potential tool for advancing our understanding of theoretical proedictions. I also provide some basic analysis of the relationship of interest.
 
-The results reveal that while for some products the correlation is indeed positive and statistically significant, some products exhibit a negative correlation between price and user rating. One possible explanation of this
+The results reveal that while for some products the correlation is indeed **positive and statistically significant, some products exhibit a negative correlation between price and user rating**. One possible explanation of this
 finding is the importance of horizontal differentiation. Horizontal differentiation refers to differences in
 products that cannot be easily evaluated in terms of quality. In fact, the theoretical assumption about the
 positive correlation between price and quality should hold for a narrowly defined product category, that is for
